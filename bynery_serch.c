@@ -3,7 +3,7 @@ int binarySearch(int a[], int beg, int end, int val)
 {    
     int mid;    
     if(end >= beg)     
-    
+
     {        mid = (beg + end)/2;    
         if(a[mid] == val)    
         {                 
