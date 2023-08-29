@@ -8,7 +8,7 @@ void bubble_sort(int a[], int n)
      {  
       if (a[j] >a [j + 1])
        {  
-        int swap = a[j];  
+        int swap = a[j];                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
         a[j] = a[j + 1];  
         a[j + 1] = swap;  
       }  
